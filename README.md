@@ -1,2 +1,5 @@
-# stock-sync
-axentx product · An AI-powered inventory planning tool for companies with high-SKU, DTC assortments to optimize stock levels and minimize waste.
+# Stock Sync
+A simple stock level forecasting tool.
+
+## Usage
+Run the tool using the following command:
