@@ -1,0 +1,18 @@
+{
+    "skus": [
+        {
+            "id": 1,
+            "name": "Test SKU",
+            "on_hand": 100,
+            "forecast": 50
+        }
+    ],
+    "centers": [
+        {
+            "id": 1,
+            "name": "Test Center",
+            "min_stock": 10,
+            "max_capacity": 100
+        }
+    ]
+}
